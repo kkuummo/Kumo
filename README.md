@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaeSea
+- 👋 Hi, I’m @Kumo
 - 👀 I’m interested in coding, music, astoromy and so on!
 - 🌱 I’m currently learning electrical and computer engineering.
 - 💞️ I’m looking to collaborate on ... I have no plan.
